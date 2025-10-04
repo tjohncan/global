@@ -1,0 +1,28 @@
+[
+  {
+    "group": 3,
+    "x": 0.0474539,
+    "y": 0.8833488,
+    "z": 0.4692866,
+    "color": 8,
+    "place": "Mount Everest",
+    "latitude": "28.0\u00b0 N",
+    "longitude": "86.9\u00b0 E",
+    "note": "Not yet...",
+    "jump_lat": 27.988,
+    "jump_lon": 86.925
+  },
+  {
+    "group": 3,
+    "x": -0.8647938,
+    "y": -0.3524229,
+    "z": 0.3628447,
+    "color": 8,
+    "place": "Honolulu, HI",
+    "latitude": "21.3\u00b0 N",
+    "longitude": "157.8\u00b0 W",
+    "note": "Some day!",
+    "jump_lat": 21.275,
+    "jump_lon": -157.828
+  }
+]
